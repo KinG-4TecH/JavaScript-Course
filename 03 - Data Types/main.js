@@ -1,0 +1,9 @@
+let a = 3 // number
+let b = 3.01 // number
+let c = "Hello World" // String
+let d = `Hello World` // String
+let e = 'Hello World' // String
+let f = true // Boolean
+let g = false // Boolean
+let h = undefiend // undefiend
+let i = null //Object
